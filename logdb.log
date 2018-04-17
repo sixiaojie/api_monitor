@@ -1,0 +1,4 @@
+17:55:20.380 Sql_Exec > ERRO  Error 1146: Table 'test.task' doesn't exist
+17:59:50.981 Sql_Exec > ERRO  Error 1136: Column count doesn't match value count at row 1
+18:00:45.318 Sql_Exec > ERRO  Error 1136: Column count doesn't match value count at row 1
+18:48:11.293 Sql_Exec > ERRO  Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''10,1523962091)' at line 1
